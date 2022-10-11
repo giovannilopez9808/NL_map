@@ -1,0 +1,54 @@
+MARCO GEOESTADÍSTICO, DICIEMBRE 2021 
+
+El producto denominado MARCO GEOESTADÍSTICO, DICIEMBRE 2021 es la representación vectorial de los continuos estatales, actualizados al mes de septiembre de 2021.
+  
+Estos continuos están organizados por capas de información, tal como se describe a continuación.
+
+eeentÁreas Geoestadísticas EstataleseemunÁreas Geoestadísticas MunicipaleseearÁreas Geoestadísticas Básicas Ruraleseelpr Localidades Puntuales RuraleseetiTerritorio Insulareel     Localidades Urbanas y Rurales AmanzanadaseepePolígono Externo (delimita el área de una localidad rural que contiene caserío disperso y servicios fuera de ésta)eepemPolígono Externo de Manzanas (contiene el caserío disperso en la periferia de localidades urbanas)eeaÁreas geoestadísticas básicas urbanaseemPolígonos de manzanaseefm Frentes de manzanaeeeEjes de vialidad (segmentos de vialidad cuya dimensión es variable)eecdCaserío DispersoeesiaServicios con Información complementaria de tipo Área
+(áreas verdes, camellones, glorietas)eesilServicios con Información complementaria de tipo Línea
+(ríos, ferrocarriles, corrientes de agua)eesip
+Servicios con Información complementaria de tipo Puntual 
+(palacios municipales o ayudantías, parques o jardines)
+Los nombres de archivo se conforman con las claves alfanuméricas del Área Geoestadística Estatal y los sufijos son descriptivos del contenido del archivo:
+
+Donde:
+ee corresponde a la clave alfanumérica del Área Geoestadística Estatal: 01, 02,…32 conforme al Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades.
+
+Parámetros: 
+Cónica Conforme de Lambert (CCL) 
+Dátum: ITRF2008. 
+Elipsoide: GRS80. 
+Meridiano origen: 102° 00’ 00’’ W. 
+Latitud origen: 12° 00’ 00’’ N. 
+Primer paralelo estándar: 17° 30’ N. 
+Segundo paralelo estándar: 29° 30’ N. 
+Falso Este: 2 500 000. 
+Falso Norte: 0 
+
+Cabe aclarar que la ubicación, forma y proporción de los elementos cartográficos es aproximada, debido a la variedad de fuentes y métodos de compilación. 
+
+El producto se complementa con el presente documento descripción de la obra, un archivo de presentación denominado léeme, y el archivo contenido que detalla las características técnicas de la información, estos archivos se encuentran en formato pdf y txt.
+ 
+Así como también los catálogos de áreas_geoestadísticas_estatales, de áreas geoestadísticas municipales, de localidades_urbanas_y_rurales_amanzanadas y 4 archivos que detallan excepciones que deben ser tomados en cuenta para la correcta interpretación en los casos considerados especiales o excepcionales en la cartografía geoestadística: 
+1. localidades_islas (localidades que se ubican en un municipio y administrativamente pertenecen a otro)
+2. localidades_rurales_que_rebasan_AGEB
+3. localidades_rurales_que_rebasan_su_municipio
+4. localidades_urbanas_que_rebasan_su_municipio
+Todos ellos en formato pdf y csv.	
+
+El MARCO GEOESTADÍSTICO, DICIEMBRE 2021 se encuentra almacenado en la Dirección General de Geografía y Medio Ambiente, y se pondrá a disposición de los usuarios a través de la página de internet institucional.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
