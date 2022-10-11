@@ -4,7 +4,7 @@ import pandas as pd
 
 mapa = gpd.read_file('conjunto_de_datos')
 mapa = mapa.set_index("CVEGEO")
-data = pd.read_csv("data.csv")
+data = pd.read_csv("data/data.csv")
 data = data[data["AÑO"] == 2010]
 data["CVE_MUN"] = data["CVE_MUN"].map(lambda number:
                                       str(number).zfill(5))
